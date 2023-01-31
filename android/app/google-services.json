@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755428741983",
+    "project_id": "nlpsite-59ee9",
+    "storage_bucket": "nlpsite-59ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755428741983:android:65a7589a43655343559cea",
+        "android_client_info": {
+          "package_name": "com.septima.septimabooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755428741983-uvulkg57v20ds83l7o27fdrtok7hbt0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP1FUol8jquTCbfd-M6E5z42-rSCKnNok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755428741983-uvulkg57v20ds83l7o27fdrtok7hbt0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
